@@ -902,6 +902,87 @@ export const Newegg: Store = {
         'https://www.newegg.com/corsair-sf-series-sf600-cp-9020182-na-600w/p/N82E16817139242',
     },
     {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932402',
+      model: 'gaming oc',
+      series: '3060',
+      url:
+        'https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060gaming-oc-12gd/p/N82E16814932402',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932399',
+      model: 'eagle',
+      series: '3060',
+      url:
+        'https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060eagle-12gd/p/N82E16814932399',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126493',
+      model: 'dual',
+      series: '3060',
+      url:
+        'https://www.newegg.com/asus-geforce-rtx-3060-dual-rtx3060-12g/p/N82E16814126493',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126491',
+      model: 'tuf',
+      series: '3060',
+      url:
+        'https://www.newegg.com/asus-geforce-rtx-3060-tuf-rtx3060-o12g-gaming/p/N82E16814126491', 
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126492',
+      model: 'strix',
+      series: '3060',
+      url:
+        'https://www.newegg.com/asus-geforce-rtx-3060-rog-strix-rtx3060-o12g-gaming/p/N82E16814126492',
+    },
+    {
+      brand: 'evga',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814487538',
+      model: 'xc black',
+      series: '3060',
+      url:
+        'https://www.newegg.com/evga-geforce-rtx-3060-12g-p5-3655-kr/p/N82E16814487538',
+    },
+    {
+      brand: 'evga',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814487539',
+      model: 'xc gaming',
+      series: '3060',
+      url:
+        'https://www.newegg.com/evga-geforce-rtx-3060-12g-p5-3657-kr/p/N82E16814487539',
+    },
+    {
+      brand: 'zotac',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814500509',
+      model: 'twin edge',
+      series: '3060',
+      url:
+        'https://www.newegg.com/zotac-geforce-rtx-3060-zt-a30600e-10m/p/N82E16814500509',
+    },
+    {
+      brand: 'zotac',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814500508',
+      model: 'twin edge oc',
+      series: '3060',
+      url:
+        'https://www.newegg.com/zotac-geforce-rtx-3060-zt-a30600h-10m/p/N82E16814500508',
+    },
+    {
       brand: 'asus',
       cartUrl:
         'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126470',
